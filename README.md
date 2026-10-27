@@ -69,7 +69,7 @@ Pada test set (34 data), SVM dan Decision Tree mencapai F1 0,971 dan KNN 0,914. 
 
 1. Clone repositori ini atau buka notebook di Google Colab.
 2. Pastikan berkas CSV ada di repositori. Pada sel pemuatan data, `URL_DATA` harus mengarah ke alamat raw CSV di repositori ini:
-   `https://raw.githubusercontent.com/[username]/[nama-repo]/main/Data_Tanaman_Padi_Sumatera_version_1.csv`
+   `https://github.com/Abidalfakhri/klasifikasi-produktivitas-padi.git/main/Data_Tanaman_Padi_Sumatera_version_1.csv`
 3. Pasang pustaka yang dibutuhkan:
    ```
    pip install numpy pandas matplotlib seaborn scikit-learn joblib
